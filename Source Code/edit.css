@@ -1,0 +1,10 @@
+body{
+    background-color: #d1dbed;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: #3498db;
+    color: #ffffff ;
+    padding: 30px 0;
+    text-align: center;
+}
